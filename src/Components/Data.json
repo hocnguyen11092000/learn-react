@@ -1,0 +1,32 @@
+[
+  {
+    "id" :1,
+    "name": "Nguyễn Văn A",
+    "tel": "0363244577",
+    "Permission": 1
+  },
+  {
+    "id" :2,
+    "name": "Nguyễn Văn B",
+    "tel": "0363247754",
+    "Permission": 2
+  },
+  {
+    "id" :3,
+    "name": "Nguyễn Văn C",
+    "tel": "0363244577",
+    "Permission": 3
+  },
+  {
+    "id" :4,
+    "name": "Nguyễn Văn D",
+    "tel": "0363244578",
+    "Permission": 4
+  },
+  {
+    "id" :5,
+    "name": "Nguyễn Văn E",
+    "tel": "0363244576",
+    "Permission": 1
+  }
+]
